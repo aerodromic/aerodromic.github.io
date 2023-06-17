@@ -1,1 +1,8 @@
 User-agent: *
+Allow: /
+
+Disallow: /tags/
+Disallow: /gallery/
+Disallow: /categories/
+
+Sitemap: https://aerodromic.github.io/sitemap.xml
