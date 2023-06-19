@@ -47,7 +47,9 @@
     opacity: 0.5;
 }
 
-#single .page-content a:hover::after, #single .page-content a:focus::after, #single .page-content a:active::after {
+#single .page-content a:hover::after,
+#single .page-content a:focus::after,
+#single .page-content a:active::after {
     width: 100%;
 }
 
